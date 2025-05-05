@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="100%" alt="banner" />
+<img src="banner.png" width="100%" alt="banner" />
 
 <h2 align="left">Hi 👋! My name is Anoop Krishnan Ramachandran.</h2>
 
@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/anoopkishnanramachandran/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/anoopkishnanramachandran/" target="_blank">
+  <a href="http://3.15.186.52/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
