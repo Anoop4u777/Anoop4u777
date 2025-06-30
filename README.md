@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer with around 4 years of experience specializing in building scalable web applications. My journey in tech began with a Computer Application degree, and I've since worked with various technologies and frameworks to create robust, high-performance solutions.</p>
+<p align="left">I'm a Software Engineer with over 4 years of experience specializing in building scalable web applications. My journey in tech began with a Computer Application degree, and I've since worked with various technologies and frameworks to create robust, high-performance solutions.</p>
 
 ###
 
